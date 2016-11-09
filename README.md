@@ -1,2 +1,4 @@
 # Singlecycle-Architecture
-Some of the instructions are stored in the Instruction Memory
+
+•Singlecycle Datapath Design was implemented using verilog HDL. <br />
+•The instructions are stored in the Instruction Memory. <br />
