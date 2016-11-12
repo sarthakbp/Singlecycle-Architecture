@@ -6,8 +6,9 @@
 
 <div style="width:40%; margin:auto; margin-bottom:10px; margin-top:20px;">
   <img style="width:100%" src="https://github.com/sarthakbp/Singlecycle-Architecture/blob/master/Main/Singlecycle_datapath.jpg">
-</div>
+</div> 
 
+• Six instructions were implemented. <br />
 
 <div style="width:40%; margin:auto; margin-bottom:10px; margin-top:20px;">
   <img style="width:100%" src="https://github.com/sarthakbp/Singlecycle-Architecture/blob/master/Main/Singlecycle_instruction_format.jpg">
